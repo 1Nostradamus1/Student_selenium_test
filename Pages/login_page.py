@@ -4,8 +4,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 
 class LoginData:
-    login_prod = "******"
-    password_prod = "**********"
+    login_prod = "********"
+    password_prod = "********"
 
 class LocatorsLoginPage:
     loginInput = (By.ID, 'normalLogin_username')
